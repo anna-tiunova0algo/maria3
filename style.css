@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fixiki {
+    width: 90px;
+    height: 100px;
+}
+a {
+    top: 110px;
+    right: 60px;
+}
+header {
+    background-color: rosybrown;
+}
